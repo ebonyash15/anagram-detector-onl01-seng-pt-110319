@@ -13,4 +13,3 @@ class Anagram
     anagrams
   end
 end
-
